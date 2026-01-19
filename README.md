@@ -2,8 +2,8 @@
 <h4 align="center">Java Backend Developer | Spring Boot</h4>
 
 <p align="center">
-  <a href="https://github.com/abdo-alraia">GitHub</a> •
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+  <a href="https://github.com/alraia">GitHub</a> •
+  <a href="https://linkedin.com/in/abdalrahman-sharf">LinkedIn</a>
 </p>
 
 ---
