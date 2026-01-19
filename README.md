@@ -1,36 +1,34 @@
-<h2 align="center">👋 Hello! I'm Athul.</h2>
+<h2 align="center">👋 Hello! I'm Abdelrahman Sherif</h2>
+<h4 align="center">Java Backend Developer | Spring Boot</h4>
+
 <p align="center">
-  <a href="https://blog.athulcyriac.in">Blog</a> •
-  <a href="https://twitter.com/athulcajay">Twitter</a>
+  <a href="https://github.com/abdo-alraia">GitHub</a> •
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
 </p>
 
+---
 
-- 🔭 I’m currently working at [KnowBe4](https://knowbe4.com) as an SRE
-- 💬 Ask me about **Go, Git and Python**
-- 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
-- ⚡ Fun fact: Big Fan of the :zap: emoji
+- 💻 Java Backend Developer specializing in **Spring Boot**
+- 🧠 Interested in **Backend Architecture, REST APIs, and Databases**
+- 🔧 Experienced with **Java, Spring Boot, Maven, Hibernate/JPA**
+- 🌱 Currently improving my skills in **System Design & Microservices**
+- 💬 Ask me about **Java, Spring Boot, REST APIs**
+- 📫 How to reach me: **LinkedIn** or **GitHub**
+- ⚡ Fun fact: I enjoy building clean and scalable backend systems
 
--------
+---
 
-**📝 Latest Blog Posts**
+## 🛠️ Tech Stack
 
-<!-- BLOG-POST-LIST:START -->
-- [Hacking with Knives and Spoons](https://blog.athulcyriac.in/blog/cooking/)
-- [Yearly Review 2024](https://blog.athulcyriac.in/blog/2024/)
-- [Python + Nix Flakes + Containers](https://blog.athulcyriac.in/blog/docker-nix-python/)
-- [Yearly Review 2023](https://blog.athulcyriac.in/blog/2023/)
-- [For Abraham, forever ago](https://blog.athulcyriac.in/blog/abraham/)
-<!-- BLOG-POST-LIST:END -->
+- **Languages:** Java  
+- **Frameworks:** Spring Boot, Spring MVC  
+- **Databases:** MySQL, PostgreSQL  
+- **ORM:** Hibernate / JPA  
+- **Tools:** Git, Maven, Postman  
+- **Concepts:** REST APIs, MVC, OOP, Clean Code  
 
--------
+---
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
+## 📌 Featured Projects
 
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
--------
+- 🔹 **RESTful API with Sp**
